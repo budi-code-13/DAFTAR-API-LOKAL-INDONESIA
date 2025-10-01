@@ -232,6 +232,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com)                    | ✅     | Mencari Informasi dan Lirik lagu. | API KEY     |
 | SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com)                   | ✅     | upload dan share music.           | API KEY     |
 | Spotify    | Spotify Dev    | [Link](https://developer.spotify.com/documentation/web-api) | ✅     | Spotify Catalog.                  | OAUTH       |
+| Apple Music    | Apple      | [Link](https://developer.apple.com/documentation/applemusicapi) | ✅ | Apple Music                       | API KEY     |
 
 ### Pemerintahan
 
