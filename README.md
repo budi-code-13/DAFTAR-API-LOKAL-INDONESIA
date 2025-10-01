@@ -203,6 +203,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Indodax    | btcid       | [Link](https://github.com/btcid/indodax-official-api-docs)                               | ✅     | Full Dokumentasi Api Public, Private Indodax Exchange.                                                                                   | API KEY     |
 | Rekeningku | rekeningku  | [Link](https://api.rekeningku.com/#introduction)                                         | ✅     | Anda dapat menggunakan API kami untuk mengakses titik akhir API Rekeningku, yang dapat memperoleh informasi seperti Pesanan, Pasar, dll. | `false`     |
 | TokoCrypto | Toko Crypto | [Link](https://www.tokocrypto.com/apidocs/#api-document-description)                     | ✅     | Dokumentasi Api TokoCrypto Exchange.                                                                                                     | API KEY     |
+| Pintu | Pintu  | [Link](https://docs.pintu.pro/#public-api)                        | ✅     | Dokumentasi Public API Pintu Crypto | API KEY  |
 
 ### Lokasi
 
