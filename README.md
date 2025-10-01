@@ -277,7 +277,8 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Whatsapp Cloud API Wrapper | fdciabdul    | [Link](https://github.com/fdciabdul/WhatsApp-Cloud-API-Wrapper) | ✅     | Unofiicial Wrapper untuk Whatsapp Cloud API.                             | `false`     |
 | Whatsapp Official API      | Facebook     | [Link](https://developers.facebook.com/docs/whatsapp)           | ✅     | Official API untuk Whatsapp Cloud API.                                   | `false`     |
 | Telegram Official API      | Telegram     | [Link](https://core.telegram.org/api/auth)                      | ✅     | Official API untuk Telegram Autentikasi API.                             | API KEY     |
-| Threads Official API      | Threads       | [Link](https://developers.facebook.com/docs/threads/get-started)| ✅     | Official API untuk Threads API.                                          | `false`     |
+| Threads Official API       | Threads      | [Link](https://developers.facebook.com/docs/threads/get-started)| ✅     | Official API untuk Threads API.                                          | `false`     |
+| TikTok Official API        | TikTok       | [Link](https://developers.tiktok.com/doc/overview?enter_method=left_navigation)| ✅     | Official API untuk TikTok API.                            | `false`     |
 
 ### Umum
 
